@@ -238,7 +238,7 @@ div.desc {
   }
 }
 
-@media only screen and (max-width: 350px){
+@media only screen and (max-width: 375px){
   .chone-responsive {
       font-size: 70px;
       margin: 5px;
