@@ -235,8 +235,9 @@ div.desc {
   .chone-responsive {
       font-size: 70px;
       margin: 5px;
-      padding: 0px;
-    }
+      padding-left: 5px;
+  }
+
   ul {
     margin-left: 20px;
     padding: 0;
