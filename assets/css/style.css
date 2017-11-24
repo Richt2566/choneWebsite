@@ -86,6 +86,13 @@ li a {
 
 }
 
+.foggy-img {
+  display: inline-block;
+}
+.foggy-tall {
+  display: none;
+}
+
 footer {
   text-align: left;
   height: 50px;
@@ -235,13 +242,21 @@ div.desc {
   .chone-responsive {
       font-size: 70px;
       margin: 5px;
-      padding-left: 5px;
+      padding-left: 10px;
   }
 
   ul {
     margin-left: 20px;
     padding: 0;
 
+  }
+
+  .foggy-img {
+    display: none;
+  }
+  
+  .foggy-tall {
+    display: inline-block;
   }
   footer {
     margin-top: -70px;
