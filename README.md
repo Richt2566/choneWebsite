@@ -1,6 +1,6 @@
 # CHONE
 
-This repository contains a website that showcases my portfolio to date. It is a static site, holding a good portion of my development work.
+This repository contains a website that showcases my artwork. It has a simple design allowing the user to purchase a print of any of my works.  
 
 ## www.chonechone.com
 
